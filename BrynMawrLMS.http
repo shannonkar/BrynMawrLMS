@@ -1,0 +1,6 @@
+@BrynMawrLMS_HostAddress = http://localhost:5250
+
+GET {{BrynMawrLMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
